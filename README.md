@@ -1,2 +1,2 @@
 # helper-functions
-some common helper functions
+some common helper functions.
