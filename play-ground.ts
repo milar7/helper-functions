@@ -1,0 +1,1 @@
+//use functions here and run this file with tsc play-ground. then index.html file in your browser.
